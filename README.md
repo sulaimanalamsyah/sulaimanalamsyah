@@ -4,7 +4,7 @@ Perkenalkan nama saya **Sulaiman Alamsyah**.<br>
 
 Saya seorang **Informatics Student** di Universitas Jenderal Soedirman<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sulaiman-alamsyah/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sulaiman-alamsyah/) ku ya.
 
 <p align="left">
 <a href="https://github.com/sulaimanalamsyah">
